@@ -8,6 +8,7 @@ import java.util.Scanner;
 
 public class web {
     public static void main(String[] args) throws Exception {
+        // ändrar lite
         String url;
         Scanner in = new Scanner(System.in);
         url = in.nextLine();
